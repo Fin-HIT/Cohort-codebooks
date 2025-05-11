@@ -9,6 +9,5 @@ If you are interested in collaborating using these data, please contact the proj
 
 Learn more about Fin-HIT cohort: 
 - [Website](https://research.folkhalsan.fi/public-health/fin-hit)
-- [Recent Cohort Profile Article
-](https://academic.oup.com/ije/article/54/2/dyaf025/8094764)
+- Latest [Cohort Profile Article](https://academic.oup.com/ije/article/54/2/dyaf025/8094764)
 
