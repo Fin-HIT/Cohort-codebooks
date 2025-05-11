@@ -6,3 +6,9 @@ This repository contains a complete list of data items and their descriptions, c
 You can use these codebooks to better understand our cohort and to support analysis planning for any collaborative research projects.
 
 If you are interested in collaborating using these data, please contact the project lead Heli Viljakainen (heli.viljakainen@folkhalsan.fi).
+
+Learn more about Fin-HIT cohort: 
+Website: https://research.folkhalsan.fi/public-health/fin-hit 
+Cohort Profile Article: https://academic.oup.com/ije/article/48/1/23/5096008
+
+
