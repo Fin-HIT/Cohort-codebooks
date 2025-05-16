@@ -8,6 +8,8 @@ This repository contains a complete list of data items and their descriptions, c
 - [Follow-up 1 (2015–2016) of parents](./Followup_1_Codebook_Guardian.csv)
 - [Follow-up 2 (2020–2024)](./Followup_2_Codebook_English.csv)
 
+**Please download the Excel versions (.xlsx) for better readability**
+
 You can use these codebooks to better understand our cohort and to support analysis planning for any collaborative research projects.
 
 If you are interested in collaborating using these data, please contact the project lead Heli Viljakainen (heli.viljakainen@folkhalsan.fi).
